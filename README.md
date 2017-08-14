@@ -1,3 +1,3 @@
-# T A D P O L E S
+<c> # T A D P O L E S
 <b> the album </b>
-<p> by Henry Ragan
+<p> by Henry Ragan</c>
