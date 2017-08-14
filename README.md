@@ -1,2 +1,3 @@
 # hello-world
-Tadpoles Album by Henry Ragan
+<b> Tadpoles Album </b>
+<p> by Henry Ragan: a small boy in a big world
